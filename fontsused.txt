@@ -1,0 +1,4 @@
+Miriam Mono 10pts 
+
+CadetBlue for top panel
+Inactive Caption for body
